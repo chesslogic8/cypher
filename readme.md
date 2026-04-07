@@ -129,8 +129,5 @@ Enjoy! 🔐
 
 ---
 
-### How to add it
-1. Create `README.md` in your `~/cypher` folder
-2. Paste the whole thing above
-3. (Optional) Run `cargo build --release` once more so the version in the help text stays up to date
+
 
