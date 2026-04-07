@@ -1,5 +1,5 @@
 
-# Cipher — Modern Linux File Encryption Tool
+# Cipher — Modern Linux File Encryption Tool 🦀
 
 **Secure, fast, and atomic in-place file encryption for Linux.**
 
