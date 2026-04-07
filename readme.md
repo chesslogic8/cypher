@@ -32,10 +32,10 @@ It encrypts files **in-place atomically** — meaning the original file is only 
 cargo build --release
 
 # 2. Encrypt a file (replaces original with .cph version)
-./target/release/cipher encrypt myfile.txt
+./cypher encrypt myfile.txt
 
 # 3. Decrypt it (restores original filename)
-./target/release/cipher decrypt myfile.txt.cph
+./cipher decrypt myfile.txt.cph
 
 
 ---
